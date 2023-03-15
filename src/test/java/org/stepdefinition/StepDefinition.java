@@ -85,5 +85,15 @@ public class StepDefinition extends UtilClass {
 	public void toClickContinueButttton() {
 		driver.findElement(By.id("continue")).click();
 
+		//15/3/2023----->New Update
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
