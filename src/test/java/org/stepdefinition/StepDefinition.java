@@ -86,6 +86,7 @@ public class StepDefinition extends UtilClass {
 		driver.findElement(By.id("continue")).click();
 
 		//15/3/2023----->New Update
+		System.out.println("1.22pm");
 	}
 	
 	
